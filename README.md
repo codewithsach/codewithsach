@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @codewithsach
-- 👀 I’m interested in Web Development and Android development
-- 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate onmaking a professional Portfolio Website
+- 👀 I’m interested in Cyber security and Development
+- 🌱 I’m currently learning Networking tools & Security
 - 📫 Reach me meet.sachinsinghthakur@gmail.com or https://www.linkedin.com/in/sachin-thakur-042460134/
 
 <!---
