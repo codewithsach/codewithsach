@@ -1,3 +1,5 @@
+Cybersecurity Graduate Student | Blue Team | SIEM | Cloud Security | Security Projects
+
 # Hi, I'm Sachin Thakur
 
 MS in Cybersecurity at the University of Denver.  
