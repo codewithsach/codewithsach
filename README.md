@@ -1,30 +1,18 @@
-# Hi, I'm Sachin Thakur
+# 💫 About Me:
+## 👋 About Me<br><br>🔭 I’m currently working on:<br>- Building hands-on cybersecurity labs and SOC analyst projects<br>- Threat detection, incident response, and log analysis<br>- Expanding my GitHub portfolio with security-focused projects<br><br>🤝 I’m looking to collaborate on:<br>- Cybersecurity projects<br>- Blue Team and SOC initiatives<br>- Open-source security tools and automation<br><br>🛡️ I’m looking for help with:<br>- SIEM engineering and threat hunting<br>- Cloud security (AWS/Azure)<br>- Advanced detection engineering and malware analysis<br><br>🌱 I’m currently learning:<br>- Security+ and CySA+ concepts<br>- SIEM, EDR, SOAR, and Threat Intelligence<br>- Python and PowerShell for security automation<br><br>💬 Ask me about:<br>- Cybersecurity fundamentals<br>- SOC operations<br>- Network security<br>- Incident response<br>- Security certifications<br><br>⚡ Fun fact:<br>- I enjoy breaking things in lab environments so I can learn how to secure them in the real world!
 
-MS in Cybersecurity at the University of Denver.  
-Interested in Blue Team operations, SIEM, cloud security, network security, and practical security engineering.
 
-## What I’m working on
-- SIEM and log analysis projects
-- Honeypot deployment and attack analysis
-- Phishing URL detection using machine learning
-- Cloud and API security projects
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meet.autocipher_16632) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-singh-thakur-042460134/) 
 
-## Skills & Tools
-- Python
-- Bash
-- Linux
-- Wireshark
-- Nmap
-- Splunk
-- Wazuh
-- Docker
-- AWS
-- Git/GitHub
+# 💻 Tech Stack:
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=codewithsach&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=codewithsach&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithsach&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Connect with me
-- 📫 Reach me meet.sachinsinghthakur@gmail.com
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codewithsach&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!---
-codewithsach/codewithsach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
